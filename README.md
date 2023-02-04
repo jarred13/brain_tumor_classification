@@ -14,4 +14,4 @@ The dataset has 139 images of MRI brain scans. The dataset was found on Kaggle.
 
 # Files Used
 archive(3).zip - dataset  
-detecting-brain-tumors-vgg16-accuracy-98.ipynb - python notebook
+detecting-brain-tumors-vgg16-accuracy-98.ipynb - Kaggle python notebook
